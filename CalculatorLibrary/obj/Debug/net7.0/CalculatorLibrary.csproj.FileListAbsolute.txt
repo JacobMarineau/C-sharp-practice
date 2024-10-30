@@ -1,0 +1,12 @@
+/Users/jacobmarineau/C-sharp-practice/CalculatorLibrary/bin/Debug/net7.0/CalculatorLibrary.deps.json
+/Users/jacobmarineau/C-sharp-practice/CalculatorLibrary/bin/Debug/net7.0/CalculatorLibrary.dll
+/Users/jacobmarineau/C-sharp-practice/CalculatorLibrary/bin/Debug/net7.0/CalculatorLibrary.pdb
+/Users/jacobmarineau/C-sharp-practice/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.csproj.AssemblyReference.cache
+/Users/jacobmarineau/C-sharp-practice/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarineau/C-sharp-practice/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.AssemblyInfoInputs.cache
+/Users/jacobmarineau/C-sharp-practice/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.AssemblyInfo.cs
+/Users/jacobmarineau/C-sharp-practice/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.csproj.CoreCompileInputs.cache
+/Users/jacobmarineau/C-sharp-practice/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.dll
+/Users/jacobmarineau/C-sharp-practice/CalculatorLibrary/obj/Debug/net7.0/refint/CalculatorLibrary.dll
+/Users/jacobmarineau/C-sharp-practice/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.pdb
+/Users/jacobmarineau/C-sharp-practice/CalculatorLibrary/obj/Debug/net7.0/ref/CalculatorLibrary.dll
